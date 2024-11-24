@@ -62,8 +62,7 @@ Plot Design: Adjust colormap or bar dimensions in plot_3d_bar().
 Notes
 Ensure the dataset contains sufficient data for meaningful analysis.
 Handles tweets in Arabic; adapt keywords for other languages as needed.
-License
-This project is open-source and available under the MIT License. Contributions are welcome!
+
 
 
 
